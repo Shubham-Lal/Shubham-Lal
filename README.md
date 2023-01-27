@@ -16,7 +16,7 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit issues if you think something could be better. <br>
 Ask me anything <a href="https://github.com/CERTIFIED2003/DISCUSSIONS/issues/1"><b>here</b></a><br>
 or <a href="mailto:lal.shubham027@gmail.com"><b>email</b></a> me.
-<i>Happy Coding!</i> 😊
+<i>Happy Hacking!</i> 😊
 </div>
 
 <div align="center">
