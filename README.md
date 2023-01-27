@@ -1,7 +1,5 @@
 # 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-  <img src="https://user-images.githubusercontent.com/111045472/214533140-5af199d9-670d-460a-85bb-2243be66b851.gif" width="30" />
-</h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 
 <div align="center">
 <h3> 𝗜'𝗺 𝗦𝗵𝘂𝗯𝗵𝗮𝗺 𝗟𝗮𝗹 </h3>
