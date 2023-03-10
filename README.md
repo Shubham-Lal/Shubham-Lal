@@ -5,13 +5,6 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706FF&width=435&lines=Full+Stack+Web+Developer;Indie+Game+Developer;Software+Programmer;"/>
 
-<div align="center">
-<h3> Full Stack Web Developer👨‍💻 </h3>
-</div>
-<div align="center">
-<h3> Indie Game Developer🎮 </h3>
-</div>
-
 <div align="center" width="50">
 <img src="https://github.com/CERTIFIED2003/py-game/blob/master/images/my.gif" alt="Welcome!" width="300"/>
 </div>
