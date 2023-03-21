@@ -31,4 +31,6 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 <i>Random dev joke for you!</i><br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" />
 
+![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
+
 </div>
