@@ -24,6 +24,9 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 
 ![Streak](https://streak-stats.demolab.com/?user=certified2003)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=certified2003&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&layout=compact&hide_border=true" />
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CERTIFIED2003/count.svg" />
