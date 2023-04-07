@@ -1,7 +1,10 @@
 <h1> 
-𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, 
+𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
+
+<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" />
 </h1>
+
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=435&lines=Full+Stack+Web+Developer;Indie+Game+Developer;Software+Programmer;"/>
 
