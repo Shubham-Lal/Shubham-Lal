@@ -8,6 +8,10 @@
 <img src="https://github.com/CERTIFIED2003/py-game/blob/master/images/my.gif" alt="Welcome!" width="300"/>
 </div>
 
+<div align="center" width="50">
+<img src="https://wakatime.com/badge/user/f73f34f7-7dba-45a7-836b-3c4659a9d757.svg" alt="Wakatime Stats"/>
+</div>
+
 <div align="center">
 You have finally discovered my Github profile. <br>
 Check out my Resume <a href="https://shubhamlal.pages.dev/Resume-Shubham-Lal.pdf">here</a>. <br> 
