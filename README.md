@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" width="50">
-<img src="https://wakatime.com/badge/user/f73f34f7-7dba-45a7-836b-3c4659a9d757.svg" alt="Wakatime Stats"/>
+<a href="https://wakatime.com/@shubhamlal"><img src="https://wakatime.com/badge/user/f73f34f7-7dba-45a7-836b-3c4659a9d757.svg" alt="Wakatime Stats"/></a>
 </div>
 
 <div align="center">
