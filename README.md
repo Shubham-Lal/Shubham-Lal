@@ -25,7 +25,9 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 </br>
 </br>
 
-![Activity](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamlal&custom_title=My%20Activities)
+<a href="https://wakatime.com/@shubhamlal">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamlal&custom_title=My%20Activities" />
+</a>
 
 ![Streak](https://streak-stats.demolab.com?user=CERTIFIED2003)
 
