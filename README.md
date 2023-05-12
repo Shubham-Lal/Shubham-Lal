@@ -25,14 +25,14 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 </br>
 </br>
 
+![Streak](https://streak-stats.demolab.com?user=CERTIFIED2003)
+
 <a href="https://wakatime.com/@shubhamlal">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamlal&custom_title=My%20Activities" />
 </a>
 
-![Streak](https://streak-stats.demolab.com?user=CERTIFIED2003)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=certified2003&hide=contribs,issues&show_icons=true&hide_border=true" alt="Shubham's github stats" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certified2003&layout=compact&hide_border=true" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=certified2003&hide=contribs,issues&show_icons=true&hide_border=true" alt="Shubham's github stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certified2003&layout=compact&hide_border=true" /> -->
 
 <p align="center"> 
   Visitor count<br>
@@ -44,6 +44,6 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CERTIFIED2003&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true)
 
-![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
+<!-- ![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found) -->
 
 </div>
