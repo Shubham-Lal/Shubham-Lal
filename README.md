@@ -27,9 +27,15 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 
 ![Streak](https://streak-stats.demolab.com?user=CERTIFIED2003)
 
+<div align="center">
 <a href="https://wakatime.com/@shubhamlal">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamlal&custom_title=My%20Activities" />
 </a>
+
+<a href="https://profile.codersrank.io/user/certified2003/">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=certified2003" width=500 />
+</a>
+</div>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=certified2003&hide=contribs,issues&show_icons=true&hide_border=true" alt="Shubham's github stats" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certified2003&layout=compact&hide_border=true" /> -->
