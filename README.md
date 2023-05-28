@@ -33,7 +33,7 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 </a>
 
 <a href="https://profile.codersrank.io/user/certified2003/">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=certified2003" width=500 />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=certified2003" width=495 />
 </a>
 </div>
 
