@@ -28,6 +28,12 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 ![Streak](https://streak-stats.demolab.com?user=CERTIFIED2003)
 
 <div align="center">
+  <a href="https://profile.codersrank.io/user/certified2003/" target="_blank">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=certified2003" alt="codersrank" width=495/>
+  </a>
+</div>
+
+<div align="center">
 <a href="https://wakatime.com/@shubhamlal">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamlal&custom_title=My%20Activities" />
 </a>
