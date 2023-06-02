@@ -38,9 +38,9 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamlal&custom_title=My%20Activities" />
 </a>
 
-<a href="https://profile.codersrank.io/user/certified2003/">
+<!-- <a href="https://profile.codersrank.io/user/certified2003/">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=certified2003" width=495 />
-</a>
+</a> -->
 </div>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=certified2003&hide=contribs,issues&show_icons=true&hide_border=true" alt="Shubham's github stats" /></a>
