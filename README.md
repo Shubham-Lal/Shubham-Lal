@@ -1,5 +1,6 @@
 <h1>
-𝐇𝐢𝐢 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" /><br />
+  𝐇𝐢𝐢 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/><br />
+<!--   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" /><br /> -->
 </h1>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(❤️)=>{+await+Backend+Developer+};int+💻+{+return+Competitive+Programmer+};using+🙇‍♂️+public+class+Indie+Game+Developer{}"/>
