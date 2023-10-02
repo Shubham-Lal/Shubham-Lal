@@ -25,7 +25,7 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 </br>
 </br>
 
-![My Streak](https://streak-stats.demolab.com/?user=CERTIFIED2003)
+![](https://streak-stats.demolab.com/?user=CERTIFIED2003)
 
 <!-- <div align="center">
   <a href="https://profile.codersrank.io/user/certified2003/" target="_blank">
