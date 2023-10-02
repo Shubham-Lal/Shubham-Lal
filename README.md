@@ -8,6 +8,8 @@
 <img src="https://github.com/CERTIFIED2003/py-game/blob/master/images/my.gif" alt="Welcome!" width="300"/>
 </div>
 
+<br />
+
 <div align="center" width="50">
 <a href="https://wakatime.com/@CERTIFIED2003"><img src="https://wakatime.com/badge/user/f73f34f7-7dba-45a7-836b-3c4659a9d757.svg" alt="Wakatime Stats"/></a>
 </div>
@@ -22,7 +24,6 @@ or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
 </div>
 
 <div align="center">
-</br>
 </br>
 
 ![](https://streak-stats.demolab.com/?user=CERTIFIED2003)
