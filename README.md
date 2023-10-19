@@ -1,5 +1,8 @@
-<h1>
+<!-- <h1>
   𝐇𝐢𝐢 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
+</h1> -->
+<h1>
+  Hey there, I am Shubham Lal
 </h1>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(❤️)=>{+await+Backend+Developer+};int+💻+{+return+Competitive+Programmer+};using+🙇‍♂️+public+class+Indie+Game+Developer{}"/>
