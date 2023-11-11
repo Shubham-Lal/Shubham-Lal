@@ -10,7 +10,7 @@
 
 <div align="center">
 You have finally discovered my Github profile. <br>
-Check out my Resume <a href="https://shubhamlal.pages.dev/Resume-Shubham-Lal.pdf">here</a>. <br> 
+Check out my Resume <a href="https://shubhamlal.pages.dev/Resume-Shubham-Lal.pdf"><b>here</b></a>. <br> 
 Please feel free to clone/fork projects, raise issues if you think something could be better. <br>
 Ask me anything <a href="https://github.com/Shubham-Lal/DISCUSSIONS/issues/1"><b>here</b></a><br>
 or <a href="mailto:im.shubhamlal@gmail.com"><b>email</b></a> me.
