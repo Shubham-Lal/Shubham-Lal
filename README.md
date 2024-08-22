@@ -1,4 +1,4 @@
-<h1 align="center">Shubham Lal</h1>
+<!-- <h1 align="center">Shubham Lal</h1>
 <p align="center">
 Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 </p>
@@ -30,3 +30,6 @@ Speaking of organisations, my work is spread across a few of them.
 <p align="center">
 
 </p>
+-->
+
+<img alt="You may have a screen reader, but you still got rick rolled." src="https://github.com/Shubham-Lal/Shubham-Lal/blob/main/assets/nice.gif?raw=true" width="100%">
