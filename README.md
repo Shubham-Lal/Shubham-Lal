@@ -32,4 +32,4 @@ Speaking of organisations, my work is spread across a few of them.
 </p>
 -->
 
-<img alt="You may have a screen reader, but you still got rick rolled." src="https://github.com/Shubham-Lal/Shubham-Lal/blob/main/assets/nice.gif?raw=true" width="100%">
+<!-- <img alt="You may have a screen reader, but you still got rick rolled." src="https://github.com/Shubham-Lal/Shubham-Lal/blob/main/assets/nice.gif?raw=true" width="100%"> -->
